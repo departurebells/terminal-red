@@ -23,6 +23,15 @@
     ],
     "HEADER_PRIMARY": [
       "#FF0000"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#FF0000"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#420000"
+    ],
+    "TEXT_NORMAL": [
+      "#FF0000"
     ]
   },
   "rawColors": {
@@ -43,5 +52,10 @@
   "plus": {
     "version": "0",
     "iconpack": "md3"
+  },
+  "background": {
+    "blur": 0.1,
+    "url": "https://raw.githubusercontent.com/departurebells/terminal-red/refs/heads/root/IMG_4642.jpeg",
+    "alpha": 0.4
   }
 }
