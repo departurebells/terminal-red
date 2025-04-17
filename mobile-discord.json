@@ -21,7 +21,9 @@
     "SPOILER_REVEALED_BACKGROUND": [
       "#232428"
     ],
-    "HEADER_PRIMARY": "#FF0000"
+    "HEADER_PRIMARY": [
+      "#FF0000"
+    ]
   },
   "rawColors": {
     "PRIMARY_560": "#08080A",
